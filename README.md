@@ -1,2 +1,2 @@
 # myportfolio
-This is my progessional portfolio
+This is my professional portfolio

@@ -4,8 +4,7 @@ This is my professional portfolio, it uses AWS and ReactJS.
 
 ## Technologies Used
 
-Brew.
-Git.
+Brew
+Git
 GitHub
-
 SSH
